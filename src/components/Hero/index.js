@@ -20,7 +20,12 @@ function Hero() {
           Let's connect
         </a>
       </div>
-      <div id="mark-profile"></div>
+      <div id="mark-profile">
+        <img
+          src={require(`../src/images/mark-transparent-background.png`).default}
+          alt="mark joseph standing with a peacoat and smiling"
+        />
+      </div>
     </section>
   );
 }
