@@ -22,8 +22,8 @@ function Hero() {
       </div>
       <div id="mark-profile">
         <img
-          src={require(`../src/images/mark-transparent-background.png`).default}
-          alt="mark joseph standing with a peacoat and smiling"
+          src={require(`../../images/mark-transparent-background.png`).default}
+          alt="mark joseph standing with a coat and smiling"
         />
       </div>
     </section>

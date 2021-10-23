@@ -1,14 +1,12 @@
 # Mark Joseph Porfolio Page
 
-## General
+![License](https://img.shields.io/badge/License%3A-MIT-green.svg)
 
-Git Page - Deployed Application
-https://mjos7.github.io/my-react-portfolio
-
-Screenshot of Mockup
-./assets/images/my-portfolio-screenshot.png
+![Screenshot](src/images/my-portfolio-screenshot.png)
 
 ## Description
+
+[Git Page - Deployed App](https://mjos7.github.io/my-react-portfolio)
 
 Welcome to my portfolio page. Here you will find the following:
 
@@ -19,8 +17,40 @@ Welcome to my portfolio page. Here you will find the following:
 - "My Work" section that has links to my portfolio. There are a few placeholders here that will be filled in as more projects are complete.
 - Finally, in the "Let's Connect" section, I've provided a few different ways to connect with me including, Linkedin, Github, and email.
 
-## Comments
+## Table of Contents
 
-- This is a work in progress and I intend to update the content and some of the styling as I continue to improve my skill set.
+- [Links](#links)
+- [Installation](#installation)
+- [Tech Used](#tech-used)
+- [Questions](#questions)
+- [License](#license)
 
-- Please don't hesitate to reach out if you have any suggestions or feedback
+## Links
+
+- [GitHub Repo](https://github.com/mjos7/my-react-portfolio)
+- [Git Page](https://mjos7.github.io/my-react-portfolio)
+
+## Installation
+
+- Both Node.js and Mongo must be installed on your computer.
+- Navigate to the root directory and run:
+  - `npm install`
+- To start the server, in the command line run:
+  - `npm start`
+
+## Tech Used
+
+- Express
+- Node
+- MongoDB
+- Mongoose
+
+## Questions
+
+Please don't hesitate to reach out if you have any suggestions or feedback
+
+## License
+
+![License](https://img.shields.io/badge/License%3A-MIT-green.svg)
+
+This app is licensed under the MIT license.
