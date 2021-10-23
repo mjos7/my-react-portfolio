@@ -42,7 +42,7 @@ header {
   padding: 20px 35px;
   height: 10vh;
   min-height: 90px;
-  background-image: url('../images/header-background.svg');
+  background-image: url('../src/images/header-background.svg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -153,7 +153,7 @@ footer a {
   justify-content: space-around;
   align-items: flex-end;
 
-  background-image: url('../images/header-background.svg');
+  background-image: url('../src/images/header-background.svg');
   background-size: cover;
   background-attachment: fixed;
   background-position: 80%;
@@ -308,7 +308,7 @@ footer a {
       rgba(255, 0, 150, 0.3),
       rgba(255, 0, 150, 0.5)
     ),
-    url('../images/adventure-time-photo.jpg');
+    url('../src/images/adventure-time-photo.jpg');
   background-size: cover;
   background-position: bottom;
   flex-grow: 3;
@@ -320,7 +320,7 @@ footer a {
       rgba(72, 0, 236, 0.5),
       rgba(255, 0, 150, 0.5)
     ),
-    url('../images/pet-beauty-pageant-hero-img.png');
+    url('../src/images/pet-beauty-pageant-hero-img.png');
   background-size: cover;
   background-position: center;
   flex-grow: 1;
@@ -331,7 +331,7 @@ footer a {
       rgba(255, 0, 150, 0.3),
       rgba(255, 0, 150, 0.5)
     ),
-    url('../images/run-buddy-work.jpg');
+    url('../src/images/run-buddy-work.jpg');
   background-size: cover;
   background-position: center;
   flex-grow: 1;
@@ -342,7 +342,7 @@ footer a {
       rgba(255, 0, 150, 0.5),
       rgba(72, 0, 236, 0.5)
     ),
-    url('../images/work-4.jpg');
+    url('../src/images/work-4.jpg');
   background-size: cover;
   background-position: center;
   flex-grow: 1;
