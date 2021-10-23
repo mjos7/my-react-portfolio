@@ -32,18 +32,14 @@ Welcome to my portfolio page. Here you will find the following:
 
 ## Installation
 
-- Both Node.js and Mongo must be installed on your computer.
-- Navigate to the root directory and run:
-  - `npm install`
-- To start the server, in the command line run:
-  - `npm start`
+- None needed
 
 ## Tech Used
 
-- Express
-- Node
-- MongoDB
-- Mongoose
+- React
+- Javascript
+- CSS
+- JSX
 
 ## Questions
 
