@@ -1,6 +1,6 @@
 {
   "short_name": "Mark's Portfolio",
-  "name": "Mark Joseph Develop Portfolio",
+  "name": "Mark Joseph Developer Portfolio",
   "icons": [
     {
       "src": "favicon.ico",
@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/public/index.html",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
