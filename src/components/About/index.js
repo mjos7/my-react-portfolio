@@ -33,15 +33,18 @@ function About() {
         </h2>
 
         <ul>
-          <li>JavaScript</li>
+          <li>JavaScript ES6+</li>
+          <li>CSS3</li>
           <li>React.js</li>
           <li>Node.js</li>
           <li>Express.js</li>
-          <li>JSON / REST APIs</li>
+          <li>GraphQL APIs</li>
+          <li>REST APIs</li>
           <li>Handlebars.js</li>
-          <li>MVC Architecture</li>
-          <li>Sequelize</li>
-          <li>MySQL / MongoDB</li>
+          <li>MySQL / Sequelize</li>
+          <li>MongoDB / Mongoose</li>
+          <li>Object Oriented Programming (OOP)</li>
+          <li>JWT User Auth (JSON Web Token)</li>
           <li>Jest (TDD)</li>
           <li>Git / GitHub</li>
           <li>Product management / Agile</li>

@@ -320,32 +320,37 @@ footer a {
       rgba(72, 0, 236, 0.5),
       rgba(255, 0, 150, 0.5)
     ),
-    url('../src/images/pet-beauty-pageant-hero-img.png');
+    url('../src/images/alexandra-mcking-mockup.jpg');
   background-size: cover !important;
   background-position: center !important;
   flex-grow: 1;
+  max-width: 33%;
 }
+
 #work-3 {
   background: linear-gradient(
       45deg,
       rgba(255, 0, 150, 0.3),
       rgba(255, 0, 150, 0.5)
     ),
-    url('../src/images/run-buddy-work.jpg');
+    url('../src/images/pet-beauty-pageant-hero-img.png');
   background-size: cover !important;
   background-position: center !important;
   flex-grow: 1;
+  max-width: 33%;
 }
+
 #work-4 {
   background: linear-gradient(
       45deg,
       rgba(255, 0, 150, 0.5),
       rgba(72, 0, 236, 0.5)
     ),
-    url('../src/images/work-4.jpg');
+    url('../src/images/run-buddy-work.jpg');
   background-size: cover !important;
   background-position: center !important;
   flex-grow: 1;
+  max-width: 33%;
 }
 
 /* CONNECT START */

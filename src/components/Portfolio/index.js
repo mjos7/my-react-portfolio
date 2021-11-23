@@ -19,8 +19,17 @@ function Portfolio() {
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://morning-woodland-90591.herokuapp.com/"
+          href="https://alexandra-mcking.herokuapp.com/"
           id="work-2"
+          className="my-work"
+        >
+          <h3>Alexandra McKING</h3>
+        </a>
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://morning-woodland-90591.herokuapp.com/"
+          id="work-3"
           className="my-work"
         >
           <h3>
@@ -33,20 +42,13 @@ function Portfolio() {
           target="_blank"
           rel="noopener noreferrer"
           href="https://mjos7.github.io/run-buddy/"
-          id="work-3"
+          id="work-4"
           className="my-work"
         >
           <h3>
             Run
             <br />
             Buddy
-          </h3>
-        </a>
-        <a href="/" id="work-4" className="my-work">
-          <h3>
-            Coming
-            <br />
-            soon
           </h3>
         </a>
       </div>
