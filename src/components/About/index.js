@@ -15,14 +15,13 @@ function About() {
           unique perspective to the way things are built — always using empathy
           and data as my guides. <br />
           <br />
-          I have over 10 years experience in tech and graduated with an MBA from
-          George Fox University in Portland, OR.
+          I have over 13 years of experience in tech and graduated with an MBA
+          from George Fox University in Portland, OR.
           <br />
           <br />
           I am an intrinsically motivated individual and a sponge when it comes
-          to learning. I'm motivated by solving complex problems, connecting
-          with family and friends, and making a meaningful impact in the lives
-          of others.
+          to learning. I'm motivated by solving complex problems, building
+          connections, and making a meaningful impact in the lives of others.
           <br />
           <br />
         </p>
