@@ -5,7 +5,7 @@ function Nav() {
   return (
     <header>
       <h1>
-        <a href="/">My Portfolio</a>
+        <a href="/my-react-portfolio/">My Portfolio</a>
       </h1>
       <nav>
         <ul>
