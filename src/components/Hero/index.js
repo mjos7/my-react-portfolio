@@ -10,7 +10,7 @@ function Hero() {
           <br />
           <span className="neon-gradient">
             I am a <br />
-            full stack
+            product leader <br />& full stack
             <br />
             web developer.
           </span>

@@ -35,7 +35,7 @@ function Connect() {
         >
           <i className="far fa-envelope"></i>
         </a>
-        <a className="connect-item button-hover" href="/">
+        <a className="connect-item button-hover" href="#about-me">
           <i className="fas fa-user-circle"></i>
         </a>
       </div>
