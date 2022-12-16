@@ -19,7 +19,7 @@ function Portfolio() {
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://alexandra-mcking.herokuapp.com/"
+          href="https://alexandra-mcking-shop.herokuapp.com/"
           id="work-2"
           className="my-work"
         >
